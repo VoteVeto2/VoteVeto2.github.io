@@ -13,7 +13,8 @@
       institution: KU Leuven, Belgium
       year: 2024-2026
       description:
-        - GPA: Magna Cum Laude
+        - GPA 
+          - Magna Cum Laude
         - Skills
           - Causal Machine Learning
           - Deep Learning
@@ -22,8 +23,10 @@
       institution: Zhejiang Gongshang University, China
       year: 2020-2024
       description:
-        - GPA: 88.5/100
-        - Bachelor Thesis: Functional Elastic-Net Regression Based on RKHS approach
+        - GPA
+          - 88.5/100
+        - Bachelor Thesis
+          - Functional Elastic-Net Regression Based on RKHS approach
         - Skills 
           - Functional Data Analysis
           - High-dimensional Statistics
