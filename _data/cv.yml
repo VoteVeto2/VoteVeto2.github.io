@@ -58,9 +58,8 @@
       institution: Yingshui Investment Fund, Shanghai, China
       year: 2023-07 - 2023-09
       description:
-        - Extracted stock data from the Shanghai Stock Exchange and perform Transformation tasks on over 60 billion rows and more than ten features, including regularization and missing value imputation.
-        - Utilized GPT 3.5 API for sentiment analysis on news data to gauge market sentiment.
-        - Aggregated daily, weekly, and monthly news sentiment scores, and computed weighted sums as stock factors for investment decisions.
+        - Extracted stock data from the Shanghai Stock Exchange and perform Transformation tasks. 
+        - Utilized GPT 3.5 API for sentiment analysis on news data to gauge market sentiment by Aggregating daily, weekly and monthly news sentiment scores.
 
     - title: Teaching Assistant
       institution: Zhejiang Gongshang University, Hangzhou, China
