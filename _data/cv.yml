@@ -38,12 +38,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Bachelor Thesis(Functional Elastic-Net Regression Based on RKHS approach)
+      institution: Zhejiang Gongshang University, Hangzhou, China
+      year: 2023-10 - 2024-05
+      description:
+        - Utilized the RKHS method for effective estimation of kernel functions under elastic-net penalty.
+        - Conducted a simulation study using spline expansion with respect to cosine basis.
     - title: Research Assistant
       institution: Zhejiang Gongshang University, Hangzhou, China
       year: 2023-06 - 2023-07
       description:
-        - Testing high-dimensional covariance matrices under weak conditions of $L^\infty$ norm
-        - Reproduce the results of empirical power of high-dimensional mean and covariance testing in four papers.
+        - Tested high-dimensional covariance matrices under weak conditions of $L^\infty$ norm
+        - Reproduced the results of empirical power of high-dimensional mean and covariance testing in four papers.
         # - title: Description 3.
           # contents:
             # - Sub-description 1.
@@ -52,7 +58,7 @@
       institution: Yingshui Investment Fund, Shanghai, China
       year: 2023-07 - 2023-09
       description:
-        - Extracted stock data from the Shanghai Stock Exchange and Performed Transformation tasks on over 60 billion rows and more than ten features, including regularization and missing value imputation.
+        - Extracted stock data from the Shanghai Stock Exchange and perform Transformation tasks on over 60 billion rows and more than ten features, including regularization and missing value imputation.
         - Utilized GPT 3.5 API for sentiment analysis on news data to gauge market sentiment.
         - Aggregated daily, weekly, and monthly news sentiment scores, and computed weighted sums as stock factors for investment decisions.
 
@@ -60,8 +66,8 @@
       institution: Zhejiang Gongshang University, Hangzhou, China
       year: 2024-02 - 2024-05
       description:
-        - Serve in the course "Analysis II" and "Linear Algebra" for undergrad
-        - leading the tutorials, providing feedback on their assignments, giving the mock exams. 
+        - Served in the course "Analysis II" and "Linear Algebra" for undergrads.
+        - Led the tutorials, provided feedback on their assignments, gave the mock exams. 
 
 # - title: Projects
 #  type: time_table
