@@ -28,7 +28,7 @@ Hello, I am Xinyu Yang, feel free to call me Christopher/Chris. Currently I am a
 
 My current interests focus on causal machine learning, I am open to any sort of collaboration in this field. I also have great enthusiasm for LLMs, particularly for their application to public health challenges.
 
-I will be exchanging to Norte Dame [ACMS department](https://acms.nd.edu/) to complete my 2nd year of my master's degree from 2025 to 2026. 
+I will be exchanging to [Notre Dame ACMS department](https://acms.nd.edu/) to complete my 2nd year of my master's degree from 2025 to 2026. 
 
 
 
