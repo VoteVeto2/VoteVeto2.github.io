@@ -21,13 +21,14 @@ Think about it, current large language models typically have hundreds of billion
 
 ## How Does Large Model Distillation Work?
 
-Looking at the process relationship:
-- Chemical distillation: Mixed substance → Heating → Vaporization → Cooling → Pure liquid
-- Model distillation: Large model → Training → Knowledge extraction → Conversion → Small model
+Looking at the parallel relationship:
 
-1: First, we have a "teacher model"—possibly a large model like Deepseek R1 or ChatGPT o1.
+- Chemical distillation: :test_tube: Mixed substance → :fire: Heating → :dash: Vaporization → :snowflake: Cooling → :droplet: Pure liquid
+- Model distillation: :teacher: Large model → :gear: Training → :bulb: Knowledge extraction → :arrows_counterclockwise: Conversion → :student: Small model
 
-2: Then, we prepare a "student model" that has much smaller parameters.
+1: First, we have a "teacher model" :teacher: —possibly a large model like Deepseek R1 or ChatGPT o1.
+
+2: Then, we prepare a "student model" :student: that has much smaller parameters.
 
 3: The distillation process begins
 
