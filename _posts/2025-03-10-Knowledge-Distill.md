@@ -3,7 +3,7 @@ layout: post
 title: Knowledge Distill
 date: 2025-03-10
 description: Intro to LLM
-tags: formatting math
+tags: math
 categories: LLM
 related_posts: false
 ---
@@ -31,17 +31,17 @@ Looking at the process relationship:
 
 3: The distillation process begins
 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/distill.jpeg" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="caption">
-    Knowledge Distillation Process
-</div>
-
 We collect large amounts of training data, and the teacher model will respond to this data, producing "soft labels," which contain not only correct answers, but also the model's judgments about other possible answers.
 
 4: Learning process
 
-The student model simultaneously learns the original correct answers ("hard labels") and the teacher model's judgments ("soft labels"), so the student learns not only "how to respond" but also understands "why respond this way."
+The student model simultaneously learns the original correct answers ("hard labels") and the teacher model's judgments ("soft labels"), so the student model learns **not only how to respond but also understands why respond this way**.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/distill.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Knowledge Distillation Process
+</div>
