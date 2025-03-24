@@ -18,7 +18,7 @@ Below are links to some of my previous tutorials (note: content is primarily in 
     - Construction of abstract spaces
     - Understanding $\| \cdot \|_{\mathcal{L}^p}$ norm
     - Dual Space and Hölder's inequality. 
-
 - [Introduction to Topology](https://drive.google.com/file/d/1OjD4GQtMccSLIsffi29W6gu-wo0ZQuP2/view?usp=sharing)
     - Basic Concepts and insights on topology
     - Compactness = Completness + Totally Bounded Set
+- TBD
