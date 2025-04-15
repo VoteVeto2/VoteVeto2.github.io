@@ -26,7 +26,7 @@ latest_posts:
 
 Hello, I am [Xinyu Yang(click for pronunciation)](https://name-coach.com/xinyu-yang-veto), feel free to call me Christopher/Chris. Currently I am a first-year master student at [KU Leuven](https://lstat.kuleuven.be/) majoring in statistics. Prior to this, I completed double majors in [economics](https://econet.zjgsu.edu.cn/) and [statistics](http://tjjy.zjgsu.edu.cn/) from Zhejiang Gongshang University, where I was under the supervision of Prof. [Bu Zhou](http://tjjy.zjgsu.edu.cn/show.asp?newid=6969) exploring the field of nonparametric statistics, especially on functional data analysis.
 
-My current interests focus on causal machine learning, I am open to any sort of collaboration in this field. I also have great enthusiasm for LLMs, particularly for their application to public health challenges.
+I have great enthusiasm for LLMs, particularly for their application to public health challenges.
 
 I am seeking a full stack developer position after my graduation. 
 
