@@ -11,13 +11,22 @@ related_posts: false
 > I couldn’t reduce it to the freshman level. That means we really don’t understand it
 > — Richard Feynman
 
-Imagine you're an experienced chef :cook: holding an extremly complex recipe(this is like a LLM). Now you want to teach your apprentice the essence of this recipe. Instead of teaching them step-by-step by letting them know all the details and hardship you've gone thorugh. This is the insight of **knowledge distillation** -- condensing the "knowledge" from a massive model into a smaller one.
+Imagine you're a great chef :cook: with a special recipe you've worked on for many years. Your helper wants to learn from you, but the recipe is complicated. Instead of teaching every tiny step, you share the main points in a simple way. This way of teaching complicated ideas in a clear, easy way is similar to what we call **model distillation** in artificial intelligence (AI).
 
 Just as alcohol distillation isn't simply reduction, but a purification process, model distillation isn't simply shrinking models, but a process of extracting and **transferring** knowledge.
 
-## Why Do We Need Model Distillation?
+## Why is Model Distillation Important?
 
-Think about it, current large language models typically have hundreds of billions(GPT 3.5) to trillions of parameters(GPT 4), like a library full of knowledge. While they're capable of amazing things, running them on ordinary devices isn't easy — it's like you can't bring the entire library home, but you can **condense the most important knowledge into a handbook**. 
+Some AI models are huge, with trillions of parameters. These big models, like the ones used for apps like ChatGPT, are very smart but hard to run on regular phones or laptops because they need a lot of power. Model distillation lets us shrink these big models into smaller ones that can run easily on everyday devices.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/model_distll.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Knowledge Distillation Process
+</div>
 
 ## How Does Large Model Distillation Work?
 
@@ -38,11 +47,3 @@ We collect large amounts of training data, and the teacher model will respond to
 
 The student model simultaneously learns the original correct answers ("hard labels") and the teacher model's judgments ("soft labels"), so the student model learns **not only how to respond but also understands why respond this way**.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/distill.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Knowledge Distillation Process
-</div>
