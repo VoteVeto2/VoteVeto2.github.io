@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-knowledge-distill",
+        },{id: "post-pitch-for-thesis-topic",
+      
+        title: "Pitch For Thesis Topic",
+      
+      description: "this is for the Science Communication project",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Pitch/";
+        
+      },
+    },{id: "post-knowledge-distill",
       
         title: "Knowledge Distill",
       
