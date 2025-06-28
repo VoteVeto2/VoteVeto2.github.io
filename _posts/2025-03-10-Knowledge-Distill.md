@@ -16,7 +16,7 @@ Just as alcohol distillation isn't about reducing volume, but about purifying a 
 
 ## Why is Model Distillation Important?
 
-Most AI models are huge, with trillions (like millions of millions) of parameters. These big models, like the ones used for apps like ChatGPT, are very smart but difficuly to run on regular laptops because they need a lot of power. Model distillation lets us shrink these big models into smaller ones that can **run easily on everyday devices**.
+Most AI models are huge, with trillions (like millions of millions) of parameters. These big models, like the ones used for apps like ChatGPT, are very smart but difficult to run on regular laptops because they need a lot of power. Model distillation lets us shrink these big models into smaller ones that can **run easily on everyday devices**.
 
 
 <div class="row mt-3">
@@ -27,7 +27,7 @@ Most AI models are huge, with trillions (like millions of millions) of parameter
         <h3>Don't be fooled by size!</h3>
         In the left picture, we can see 
         <ul>
-            <li>The teacher model is <code>Deepseek-R1-0528</code>, one of the frontier model. 
+            <li>The teacher model is <code>Deepseek-R1-0528</code>, one of the frontier models. 
             </li>
             <li>The distilled model is <code>Deepseek-R1-0528-Qwen3-8B</code>, being <b>100 times smaller</b> than the teacher model, and can be deployed in a PC.  
             </li>
@@ -39,7 +39,7 @@ Most AI models are huge, with trillions (like millions of millions) of parameter
 
 
 
-Also, because the student model is small, it needs much less electricity to think(great for the earth!). Smaller also means cheaper, so more people can play with it on laptops(even cellphones) instead of mega-servers that cover areas comparable to football stadiums. 
+Also, because the student model is small, it needs much less electricity to think(great for the earth!). Smaller also means cheaper, so more people can play with it on laptops and even cellphones instead of mega-servers that cover areas comparable to football stadiums. 
 
 --- 
 
@@ -74,5 +74,5 @@ Here's what it means for each step:
 Model distillation is like an apprenticeship, where the student learns directly from the teacher, step by step. Just as an apprentice chef learns cooking skills by watching and following closely as the experienced chef prepares dishes, the smaller AI model learns key concepts directly from the larger, knowledgeable AI model.
 
 ## Conclusion 
-In doing so, we can make AI more accessible, efficient, and widely usable, bringing smart technology to more people. 
+Through model distillation, we demonstrate a way to make **Large** AI models more accessible, efficient, and widely usable, not just those with access to massive computing resources.  
 
