@@ -34,9 +34,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/Pitch/";
         
       },
-    },{id: "post-knowledge-distill",
+    },{id: "post-knowledge-distillation-putting-ai-giants-in-your-pocket",
       
-        title: "Knowledge Distill",
+        title: "Knowledge Distillation: putting AI Giants in Your Pocket",
       
       description: "Intro to LLM",
       section: "Posts",
