@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Xinyu Yang
+      value: Xinyu Yang(杨昕煜)
     - name: Languages
-      value: English, Chinese
+      value: English(fluent), Chinese(native), French(basic)
 
 - title: Education
   type: time_table
@@ -16,9 +16,9 @@
         - GPA
           - Cum Laude
         - Skills
-          - Causal Machine Learning
           - Deep Learning
-          - Real Analysis
+          - Reinforcement Learning
+          - Statistical Learning
     - title: B.S. in Statistics
       institution: Zhejiang Gongshang University, China
       year: 2020-2024
@@ -30,7 +30,7 @@
         - Skills
           - Functional Data Analysis
           - High-dimensional Statistics
-          - Machine Learning
+          - Statistical Learning
     - title: B.A. in Economics
       institution: Zhejiang Gongshang University, China
       year: 2019-2024
@@ -38,6 +38,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: Itec-imec, Kortrijk, Belgium
+      year: 2025-06 - 
+      description:
+        - Developing interpretable survival clustering methods for EHR datasets w/ focus on <a href="https://doi.org/10.1016/j.patcog.2024.110497">Learning Vector Quantization method</a>.
+    - title: Medical Image Segmentation Competition (4th-palce) 
+      year: 2025-07 - 2025-08
+      description:
+         - Trained and tuned a two-stage vitiligo staging modelon ~600 medical images, validated 85% accuracy and 95% specificity
+         - Delivered a lightweight, clinic-ready build (8.7 MB) that runs on standard CPUs (~1.2s/image).
+    
     - title: Bachelor Thesis(Functional Elastic-Net Regression Based on RKHS approach)
       institution: Zhejiang Gongshang University, Hangzhou, China
       year: 2023-10 - 2024-05
