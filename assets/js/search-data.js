@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-pitch-for-thesis-topic",
+        },{id: "post-verhoogde-tegemoetkoming-increased-reimbursemnet",
+      
+        title: "Verhoogde Tegemoetkoming(Increased Reimbursemnet)",
+      
+      description: "All you need to know about Verhoogde Tegemoetkoming",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Verhoogde_Tegemoetkoming/";
+        
+      },
+    },{id: "post-pitch-for-thesis-topic",
       
         title: "Pitch For Thesis Topic",
       
