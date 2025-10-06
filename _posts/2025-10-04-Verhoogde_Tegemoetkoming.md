@@ -35,6 +35,22 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
 
 ---
 
+### Searching for **geconventioneerd**(Contracted) Health Provider
+
+**Short version:** Think of *geconventioneerd(Contracted)* as the Belgian health-care equivalent of a *fixed-price menu*. RIZIV(Belgium's social security) renegotiates tariffs every two years and pays a bonus to conventioned doctconventioneors for sticking to them, keeping care affordable. You can find it 
+
+- A *geconventioneerd* doctor sticks to the official RIZIV tariffs; 
+- A *Gedeeltelijk geconventioneerd(partially contracted)* one follows the menu except during their self-declared “surcharge hours” - you can find this information on [RZIZV site](https://webappsa.riziv-inami.fgov.be/silverpages/); 
+- A *niet geconventioneerd(non-contracted)* provider makes up prices à la carte.
+
+Here's how to check a provider’s status in **60 seconds**
+
+1. Open RIZIV’s **SilverPages** search: [https://webappsa.riziv-inami.fgov.be/silverpages/](https://webappsa.riziv-inami.fgov.be/silverpages/). 
+2. Search by name, *Berop(Occupation)*, *Conventioneringsstatus(Contracting Status)* or any other section.
+3. If it's *Gedeeltelijk geconventioneerd*, make sure to click on provider's *Uren wel/niet geconventioneerd(Contracted and non-contracted hours)* to see the exact time for that. 
+
+To put it simple: always searching for *geconventioneerd* or *gedeeltelijk geconventioneerd*: they are covered by insurance. 
+
 ### GP consultations (**geconventioneerde** GP)
 
 - **You pay only the small co‑pay (remgeld)**; the rest is billed to the fund via the **third‑party payer**. VT patients have a right to this at the GP. ([RIZIV][4])
@@ -45,7 +61,7 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
 
 ### Psychological care (two layers)
 
-* **Publicly funded first‑line psychology (RIZIV networks):** for adults ≥24 y the **personal share is €4 per session with VT** (vs €11). See CM’s explanation of network‑based care. ([CM][6])
+* **Publicly funded first‑line psychology (RIZIV networks):** for adults ≥24 y the **personal share is €4 perSta session with VT** (vs €11). See CM’s explanation of network‑based care. ([CM][6])
 * **CM’s extra member benefit** (outside the network): CM refunds part of sessions with recognised clinicians; for **children & youth** CM states **50% up to €30 per session, or 75% up to €45 per session if you have VT** (up to lifetime caps). ([CM][7])
 
 ### Medicines & contraception
@@ -79,9 +95,9 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
 
 ### Leuven‑specific municipal benefits connected to VT
 
-- **Free UiTPAS (kansentarief) + 80% discount** on partner culture/sport/leisure activities and membership/registration fees across **Leuven, Bierbeek, Herent, Oud‑Heverlee**. The city explicitly lists this under VT. ([Homepage | Stad Leuven][18])
-- **Free annual package of household waste bags** if you have VT (city measure; see the Leuven page for details and the 2025 council decision). ([Homepage | Stad Leuven][19])
-- The Leuven VT page also points to **De Lijn/NMBS VT transport discounts**, local support (e.g., energy coaching) and **“Iedereen Verdient Vakantie”** discounted trips. ([Homepage | Stad Leuven][18])
+- **Free UiTPAS (kansentarief) + 80% discount** on partner culture/sport/leisure activities and membership/registration fees across **Leuven, Bierbeek, Herent, Oud‑Heverlee**. The city explicitly lists this under VT. 
+- **Free annual package of household waste bags** if you have VT (city measure; see the Leuven page for details and the 2025 council decision). 
+- The Leuven VT page also points to **De Lijn/NMBS VT transport discounts**, local support (e.g., energy coaching) and **“Iedereen Verdient Vakantie”** discounted trips. 
 
 ### Telecom/internet (important nuance)
 
@@ -93,7 +109,7 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
 
 ### UiTPAS Leuven **kansentarief**
 
-* With a recent **attest VT**, Leuven grants a **free UiTPAS** and **80% discounts** on tickets, membership and course fees at participating organisations in Leuven/Bierbeek/Herent/Oud‑Heverlee; great for cinema, community sports, cultural venues, workshops. See examples and application steps (accepts a VT attest not older than 3 months; annual auto‑renew where still eligible). ([Homepage | Stad Leuven][21])
+* With a recent **attest VT**, Leuven grants a **free UiTPAS** and **80% discounts** on tickets, membership and course fees at participating organisations in Leuven/Bierbeek/Herent/Oud‑Heverlee; great for cinema, community sports, cultural venues, workshops. See examples and application steps (accepts a VT attest not older than 3 months; annual auto‑renew where still eligible). 
 
 ### KU Leuven Sport – (partial) reimbursement via your mutuality
 
@@ -129,7 +145,7 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
    * **MIVB**: buy the **RVV** subscription (listed price: **€8.10/month or €85/year**). ([STIB - MIVB][16])
 
 5. **UiTPAS (Leuven region)**
-   Apply online or at a sales point with your **VT attest (<3 months old)** to get a **free card** and **80% discounts** at partner organisations. ([Homepage | Stad Leuven][21])
+   Apply online or at a sales point with your **VT attest (<3 months old)** to get a **free card** and **80% discounts** at partner organisations. 
 
 6. **KU Leuven Sports Card reimbursement**
    Download CM’s **sports reimbursement** form, get it stamped at **KU Leuven Sport**, and submit to CM (up to **€15/year**). ([CM][22])
@@ -137,27 +153,6 @@ We will only cover the case w/ CM insurance(cuz that's the one I am insured with
 7. **Keep an eye on your annual cap**
    If your remgeld reaches the **MAF cap** (with VT usually **€527.27** in 2025), the rest of that year’s eligible co‑pays are reimbursed automatically. ([HZIV][12])
 
----
-
-## Notes, limits & recent changes to be aware of
-
-* **Hospitalisation billing:** choose **common or two‑bed rooms** and **conventioned** providers to avoid supplements; CM’s **VT hospital top‑up** (75% of personal shares if you lack hospital insurance) is exceptional but only covers *legally defined personal shares*. ([CM][11])
-* **NMBS discount rounding / tariff changes:** NMBS announced a new fare structure in 2025; at the time of writing, the official page still shows **50%** VT discount—verify at purchase in case of roll‑out changes. ([Belgian Train][15])
-* **Telecom:** **VT alone does not grant** the new **social internet offer**; eligibility depends on other social criteria. ([Economie][20])
-* **Flemish care premium:** 2025 amounts are **€64 standard / €32 with VT**; Flemish sources indicate increases are planned **from 2026**—monitor when budgeting future years. ([Departement Zorg][17])
-
----
-
-### Sources (selection)
-
-* CM: **Verhoogde Tegemoetkoming** explainer and forms; **GP 2025 tariffs** (incl. €1/€1.50 remgeld with VT), **hospitalization** & **hospital forfaits**, **psychological care** (network co‑pays and youth VT amounts), **sports club refund**. ([CM][1])
-* RIZIV/INAMI: VT concept; third‑party payer rule; contraceptive extra reimbursement list. ([RIZIV][2])
-* **MAF** (Maximumfactuur) rules & 2025 caps (HZIV/Vlaanderen/CM). ([HZIV][12])
-* Transport operators: **De Lijn VT** reduction & automatic processing; **NMBS VT −50%**; **MIVB RVV €8.10/m or €85/y (2025)**. ([De Lijn][14])
-* **Leuven**: City VT page consolidating local benefits (free UiTPAS kansentarief; free household bags; pointers to De Lijn/NMBS discounts). UiTPAS kansentarief details (80% discount). ([Homepage | Stad Leuven][18])
-* **Flemish care premium (zorgpremie):** 2025 amounts and reduced rate with VT. ([Departement Zorg][17])
-
----
 
 
 [1]: https://www.cm.be/nl/diensten-en-voordelen/verhoogde-tegemoetkoming?utm_source=chatgpt.com "Verhoogde tegemoetkoming | CM"
