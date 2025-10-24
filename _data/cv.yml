@@ -42,7 +42,8 @@
       institution: Itec-imec, Kortrijk, Belgium
       year: 2025-06 - 
       description:
-        - Developing interpretable survival clustering methods for EHR datasets w/ focus on <a href="https://doi.org/10.1016/j.patcog.2024.110497">Learning Vector Quantization method</a>.
+        - Developing interpretable clustering methods for EHR dataset(w/ collaboration <a href="https://www.apb.be/nl-BE">APB</a>.
+        - Identify trajectory clustering for individual patients and subgroups on low-dimensional manifolds.
     - title: Medical Image Segmentation Competition (4th-palce) 
       year: 2025-07 - 2025-08
       description:

@@ -26,8 +26,9 @@ latest_posts:
 
 Hello, I am [Xinyu Yang(click for pronunciation)](https://name-coach.com/xinyu-yang-veto), feel free to call me Christopher/Chris. Currently I am a first-year master student at [KU Leuven](https://lstat.kuleuven.be/) majoring in statistics. Prior to this, I completed double majors in [economics](https://econet.zjgsu.edu.cn/) and [statistics](http://tjjy.zjgsu.edu.cn/) from Zhejiang Gongshang University, where I was under the supervision of Prof. [Bu Zhou](http://tjjy.zjgsu.edu.cn/show.asp?newid=6969) exploring the field of nonparametric statistics, especially on functional data analysis.
 
-I have great enthusiasm for LLMs, particularly for how to use RL post-training techniques to help it gets better.
+I have great enthusiasm for LLMs - especially for post-training parts. I am exploring the [*Verl*](https://github.com/volcengine/verl) framework and delve deep on RLHF.
 
+I have also explored the full-stack development for the past year, learned a lot from the amazing Claude Code!
 
 
 
