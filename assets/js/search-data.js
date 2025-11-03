@@ -102,7 +102,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/xinyu-christopher-yang-7a688825a", "_blank");
+          window.open("https://www.linkedin.com/in/xinyu-yang-7a688825a", "_blank");
         },
       },{
         id: 'social-rss',
