@@ -34,7 +34,7 @@ On These days, I am interested in the following topics:
 2. [Evals for agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents); 
 3. [Synthetic Data](https://github.com/pengr/LLM-Synthetic-Data), focus on application on tool use applications. 
 
-I enjoy long, unplanned wandering around the city/river/canal during my free time. I am also open to a casual 30-min coffee chat, you can schedule a Google Meet via this [Google Booking Pages](https://calendar.app.google/yDcifW4JA36dUZFq9), or you can visit either Belgium/Shanghai/Hangzhou and let's find a good café together, preferably some [Panama washed Geisha](https://bestofpanama.auction/auction-2024). 
+I enjoy [long, unplanned wandering](https://bun.com/blog/bun-joins-anthropic#the-walk) around the city/river/canal during my free time. I am also open to a casual 30-min coffee chat, you can schedule a Google Meet via this [Google Booking Pages](https://calendar.app.google/yDcifW4JA36dUZFq9), or you can visit either Belgium/Shanghai/Hangzhou and let's find a good café together, preferably some [Panama washed Geisha](https://bestofpanama.auction/auction-2024). 
 
 
 
