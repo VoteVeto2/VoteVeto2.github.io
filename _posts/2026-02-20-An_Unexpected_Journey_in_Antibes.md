@@ -8,6 +8,9 @@ categories: prose
 related_posts: false
 ---
 
+<blockquote style="font-size: 1.5rem; border-left: 7px solid; padding: 1.2em 1.5em;">
+  📖 <strong>For readers unfamiliar with Chinese culture:</strong> We strongly recommend you read the <a href="https://www.gutenberg.org/cache/epub/2090/pg2090-images.html" target="_blank">Peach Blossom Spring</a> to fully immerse yourself in this story.
+</blockquote>
 
 Antibes was never in the plan. This was supposed to be a coastal trip heading east from Arles,[^1] starting in Cannes, threading through Nice, Monaco,[^2] Ventimiglia, spanning the entire Côte d'Azur.[^3] SNCF's[^4] regional pricing brought the toll down to a minimum: thirty-five euros for three days, fifty for seven. If you were willing to practice a few rusty phrases of French with the elegant ladies past fifty at the platform ticket counter, you could save the two-euro card fee from the self-service machine — a broke exchange student's indignity doesn't end at the boarding pass paired with economy class in the terminal;[^5] you must also hoard every coin like the Dutch and the Vlaamse,[^6] or when nature calls in France, that cash-only pay toilet becomes your true reckoning.
 
