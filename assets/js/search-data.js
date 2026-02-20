@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-verhoogde-tegemoetkoming-increased-reimbursemnet",
+        },{id: "post-antibes-an-unexpected-journey",
+      
+        title: "Antibes - An Unexpected Journey",
+      
+      description: "Prose orignally wriiten in Chinese, and translated to English.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/An_Unexpected_Journey_in_Antibes/";
+        
+      },
+    },{id: "post-verhoogde-tegemoetkoming-increased-reimbursemnet",
       
         title: "Verhoogde Tegemoetkoming(Increased Reimbursemnet)",
       
