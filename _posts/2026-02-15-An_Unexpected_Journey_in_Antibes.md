@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Antibes - An Unexpected Journey 
-date: 2026-02-16                # if you set the time in the future it won't be published until the date comes
+date: 2026-02-15                # if you set the time in the future it won't be published until the date comes
 description: Prose orignally wriiten in Chinese, and translated to English. 
 tags: Antibes
 categories: prose
@@ -53,7 +53,7 @@ Stunned by the Côte d'Azur × the Alps, I decided to unseal a forgotten Tour de
 
 I wasn't the only early riser. An Englishman with a Manchester accent jogged with his dog; now and then, road cyclists — solo or in clusters — screamed past on the opposite lane. As luck would have it, the coastal ride ended at the entrance of some luxury hotel: a construction vehicle straddling the road with a terse French sign informed all comers the way was closed. Every alternate route climbed. I had neither the stamina to scale mountains, nor thousands euros for a carbon-fiber bicycle, nor insurance good enough to summon a helicopter if things seems off. The green Lime e-bike, conspicuously out of place, was already the optimal solution. Still, climbing, I had to grumble: capped at twenty-five, the horsepower was simply not enough.
 
-The itinerary was grand. The noble Liu Ziji of Nanyang never found the Peach Blossom Spring,[^23] yet I found Antibes without searching. The Alps unfolded at a turn. Nearby, the sea didn't require swimming to reveal its deep blue, mirroring cerulean sky and white cloud under the subtropical high. In the distance, that had to be Nice: the airport awaiting a descending Emirates A380,[^24] four Rolls-Royce engines burning Middle Eastern oil money that might as well be free, their roar splitting the sky ahead of the enormous wake turbulence, announcing the arrival of this aerial colossus born in a factory in nearby Toulouse.[^25] On the other side of the airport, travelers were flying toward the future. My mind drifted back to Nyingchi at Tibet: a thirteen-year-old boy gazing down at the Yarlung Tsangpo River, looking up at the triangle of Namcha Barwa Mountain, golden. Before reaching Cairo or the British Museum, this was my pyramid.
+The itinerary was grand. The noble Liu Ziji of Nanyang never found the Peach Blossom Spring,[^23] yet I found Antibes without searching. The Alps unfolded at a turn. Nearby, the sea didn't require swimming to reveal its deep blue, mirroring cerulean sky and white cloud under the subtropical high. In the distance, that had to be Nice: the airport awaiting a descending Emirates A380,[^24] four Rolls-Royce engines burning Middle Eastern oil money that might as well be free, their roar splitting the sky ahead of the enormous wake turbulence, announcing the arrival of this aerial colossus born in a factory in nearby Toulouse.[^25] On the other side of the airport, travelers were flying toward the future. My mind drifted back to Nyingchi at Tibet: a thirteen-year-old boy gazing down at the Yarlung Tsangpo River, looking up at the triangle of Namcha Barwa Mountain, golden. Before reaching Cairo or the British Museum, this was my pyramid. I held up my phone,  the Alps and the Mediterranean shared the frame. A plane inched across the Live Photo. I thought of sending it to someone but locked the screen instead.
 
 [^23]: From Tao Yuanming's *"The Peach Blossom Spring."* Liu Ziji was the last person to seek the hidden utopia; he never found it. After him, no one asked the way again.
 [^24]: A380 — the Airbus super-jumbo jet (Airbus A380).
@@ -73,15 +73,6 @@ Before my Cantonese flip-flops could be fully eroded by waves and sand, I made i
 
 [^31]: Monte Carlo — Monaco's most famous district, renowned for its luxury casino, high-end hotels, and the Formula 1 Grand Prix.
 
-On the train to Monaco, a word came to mind: *serendipity*. In 1754, the Englishman Horace Walpole heard the tale of the three princes of Serendip and, in the manner of Shakespeare,[^32] coined the word: the princes, never having seen a camel, deduced from trampled grass, ants, flies, and footprints that it was blind in one eye, lame, missing a tooth, and carrying a pregnant woman, honey, and butter — every detail correct. Today we use it for the faculty of *were always making discoveries, by accidents and sgacity, of things they were not in quest of*.[^33] My friends all seem to enjoy hearing me tell this story, but I can't remember how she reacted.
-
-[^32]: Shakespeare — William Shakespeare, often regarded as the exemplar of English literature.
-[^33]: Quoted from the *New Oxford American Dictionary.*
-
-That isn't where this story's title comes from, though. I first encountered it in the subtitle of the first *Hobbit* film:[^34] Bilbo Baggins, content in Bag End, has his life upended by a wizard and dwarves, and sets off on an **unexpected journey**. Tolkien[^35] wrote a book out of it; mine fills only these five pages.
-
-[^34]: The film's original title: *The Hobbit: An Unexpected Journey.*
-[^35]: Tolkien — J. R. R. Tolkien, English author.
 
 Tao Yuanming had already imagined such an otherworld. The people of the Peach Blossom Spring — "they knew nothing of the Han dynasty, let alone the Wei or Jin"[^36] — embodied the earliest utopia.[^37] My first-year Chinese teacher in middle school loved to banter. He spoke of his old days in the state system: first, two weeks to crush the final exams, then a whole month on *The Peach Blossom Spring* — riffing from the year 421[^38] all the way to the French Revolution.[^39] I never once heard him teach that text. My actual middle-school Chinese teacher, heavy with *banwei*[^40] rushed through the essay. All I remember: "Memorize the full text, spot check next week." The story sank like that, until I came to Leuven[^41] — the Eurostar[^42] shook me toward Paris at three hundred kilometers per hour, and the vertigo was overwhelming before the Louvre's[^43] free, all-encompassing embrace. Along the Grande Galerie,[^44] near-ten-meter canvases unfurled the French Revolution: from Napoleon's coronation[^45] to La Liberté guidant le peuple.[^46] Under Delacroix's[^47] brush, the goddess of Liberty strides barefoot over the barricade, hoisting the tricolor — the French from then on wore freedom on their bodies; the Peach Blossom Spring still gathered dust in a middle-school textbook corner. Ten years later the realization hit: that Chinese class was my Enlightenment.[^48]
 
@@ -99,26 +90,36 @@ Tao Yuanming had already imagined such an otherworld. The people of the Peach Bl
 [^47]: Eugène Delacroix — 19th-century French Romantic painter, creator of *La Liberté guidant le peuple.*
 [^48]: The Enlightenment — the 17th–18th-century European intellectual movement championing reason, liberty, and equality.
 
-The next stop was Monte Carlo, and I had missed it, lost in memory. Google Maps[^49] flickered through the Schengen Area[^50] and Monaco, briefly losing signal, and only after stepping out of Monaco's dim station — built inside a mountain cave[^51] — did I realize I had overshot. Halting French and an intermittent map signal led me to a village station. From here I headed west for the first time.
+The next stop was Monte Carlo, and I had missed it, lost in memory. Google Maps[^49] flickered through the Schengen Area[^50] and Monaco, briefly losing signal, and only after stepping out of Monaco's dim station — built inside a mountain cave[^51] — did I realize I had overshot. Halting French and an intermittent map signal led me to a village station. I pulled out my phone album. The location pin read: Carnolès.[^52]
 
 [^49]: Google Maps — the most commonly used navigation app for overseas travel outside China.
 [^50]: The Schengen Area — the zone of European countries that have abolished mutual border checks under the Schengen Agreement, allowing free movement. Monaco, though not a Schengen member, is entirely surrounded by France and maintains open borders.
 [^51]: Gare de Monaco-Monte-Carlo — to conserve the principality's scarce land, the entire station is built underground in tunnels and rock caverns, with perpetually poor lighting.
+[^52]: Carnolès — a **small** train station in southeastern France near the Monaco border.
 
-I remembered meeting her for the first time: I missed my transfer at a platform I had been there at least five hundred times. I, who prided myself on arriving on the dot,[^52] had no choice but to message her — fifteen minutes late, I estimated. She showed no anger. Behind her calm face, none of the excitement from those marathon phone calls[^53] the days before, nor any other readable emotion. I knew I had botched the first impression, even though it was the first time since starting university that I had actually groomed myself before a date. This unexpected journey brought me back here again. I pulled out my phone album. The location pin read: Carnolès.[^54]
+The platform was almost empty. Just me, my red Grand Frais shopping bag, and a ticket machine of uncertain loyalty to credit cards. he opposite platform, equally bare. Four years earlier, a different platform, one I'd passed through five hundred times. Every minute accounted for. Still missed the transfer. She said to wait outside the convenience store by West Lake Cultural Plaza station. The store had a big floor-to-ceiling windows. She sat with her back against it, head bowed, eyes on her phone. From far off I saw a purple outline, brown hair pinned with a black butterfly clip. Not sure it was her. I slowed down, walked to the glass door, sent her a message: turn around. Four months later she told me she'd seen me coming all along.
 
-[^52]: *Arriving on the dot* — for arriving at exactly the appointed minute, with zero margin for error.
-[^53]: *Bao dianhua zhou* — literally "simmering telephone porridge," meaning talking for hours on the phone, as slow as cooking congee.
-[^54]: Carnolès — a **small** train station in southeastern France near the Monaco border.
+In 1754, the Englishman Horace Walpole heard the tale of the three princes of Serendip and, in the manner of Shakespeare,[^32] coined the word: the princes, never having seen a camel, deduced from trampled grass, ants, flies, and footprints that it was blind in one eye, lame, missing a tooth, and carrying a pregnant woman, honey, and butter — every detail correct. Today we use it for the faculty of *were always making discoveries, by accidents and sgacity, of things they were not in quest of*.[^33] My friends all seem to enjoy hearing me tell this story, but I can't remember how she reacted.
+
+[^32]: Shakespeare — William Shakespeare, often regarded as the exemplar of English literature.
+[^33]: Quoted from the *New Oxford American Dictionary.*
+
+That isn't where this story's title comes from, though. I first encountered it in the subtitle of the first *Hobbit* film:[^34] Bilbo Baggins, content in Bag End, has his life upended by a wizard and dwarves, and sets off on an **unexpected journey**. Tolkien[^35] wrote a book out of it; mine fills only these three pages.
+
+[^34]: The film's original title: *The Hobbit: An Unexpected Journey.*
+[^35]: Tolkien — J. R. R. Tolkien, English author.
 
 The westbound train came quickly. On the Côte d'Azur, trains depart as densely as Hangzhou Metro Line 5.[^55] When I was six, my father gave me a hardcover world atlas. Beneath the worn laminate was the origin of my world geography. Late at night, after lights-out, I taught myself to use a calculator, worked out GDP  per-capita for over two hundred countries, and reached a conclusion: the world's richest people live in Monaco. From that small room, I walked twenty years. I walked here.
 
+
+[^55]: Hangzhou Metro Line 5 — a metro line running through several central districts of Hangzhou, with extremely high ridership and dense departures during rush hour.
+
 <p align="right">
-  <i>Xinyu(Christopher) Yang, Night of February 16, 2026</i><br>
+  <i>Xinyu(Christopher) Yang, Night of February 15, 2026</i><br>
   <i>Written in the first snow of Leuven</i>
 </p>
 
+> *Disclaimer: This work was co-created with Claude-Opus-4.6*
 
-[^55]: Hangzhou Metro Line 5 — a metro line running through several central districts of Hangzhou, with extremely high ridership and dense departures during rush hour.
 
 
