@@ -28,7 +28,7 @@ Hello, I am [Xinyu Yang(click for pronunciation)](https://name-coach.com/xinyu-y
 
 I research agents. I build agents. Also into the post-training side of LLMs.
 
-Currently wrapping up my master's in [statistics at KU Leuven](https://lstat.kuleuven.be/). I am now working under [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) on clustering Belgian pharmacy data: trying to make sense of 1 million Belgians' diabetes-related records. Prior to this, I completed a double major in [economics](https://econet.zjgsu.edu.cn/) and [statistics](http://tjjy.zjgsu.edu.cn/) at Zhejiang Gongshang University, where I worked under the supervision of Prof. [Bu Zhou](http://tjjy.zjgsu.edu.cn/show.asp?newid=6969) exploring the field of [nonparametric statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E). 
+Currently wrapping up my master's in [statistics at KU Leuven](https://lstat.kuleuven.be/). I am now working under [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) on clustering Belgian pharmacy data: trying to make sense of 1 million Belgians' diabetes-related records. Prior to this, I completed a double major in [economics](https://econet.zjgsu.edu.cn/) and [statistics](http://tjjy.zjgsu.edu.cn/) at Zhejiang Gongshang University, where I worked under the supervision of Prof. [Bu Zhou](https://mypage.zjgsu.edu.cn/tjjy/zb2/main.htm) exploring the field of [nonparametric statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E). 
 
 
 These days, I am interested in the following topics: 
