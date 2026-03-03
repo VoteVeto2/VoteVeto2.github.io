@@ -97,14 +97,13 @@ The next stop was Monte Carlo, and I had missed it, lost in memory. Google Maps[
 [^51]: Gare de Monaco-Monte-Carlo — to conserve the principality's scarce land, the entire station is built underground in tunnels and rock caverns, with perpetually poor lighting.
 [^52]: Carnolès — a **small** train station in southeastern France near the Monaco border.
 
-The platform was almost empty. Just me, my red Grand Frais shopping bag, and a ticket machine of uncertain loyalty to credit cards. he opposite platform, equally bare. Four years earlier, a different platform, one I'd passed through five hundred times. Every minute accounted for. Still missed the transfer. She said to wait outside the convenience store by West Lake Cultural Plaza station. The store had a big floor-to-ceiling windows. She sat with her back against it, head bowed, eyes on her phone. From far off I saw a purple outline, brown hair pinned with a black butterfly clip. Not sure it was her. I slowed down, walked to the glass door, sent her a message: turn around. Four months later she told me she'd seen me coming all along.
+The platform was empty. Just me, my oversized red Grand Frais shopping bag, and a ticket machine that may or may not take credit cards.
 
-In 1754, the Englishman Horace Walpole heard the tale of the three princes of Serendip and, in the manner of Shakespeare,[^32] coined the word: the princes, never having seen a camel, deduced from trampled grass, ants, flies, and footprints that it was blind in one eye, lame, missing a tooth, and carrying a pregnant woman, honey, and butter — every detail correct. Today we use it for the faculty of *were always making discoveries, by accidents and sgacity, of things they were not in quest of*.[^33] My friends all seem to enjoy hearing me tell this story, but I can't remember how she reacted.
+Four years ago, that platform wasn't empty. Hangzhou. A metro station I'd transferred through five hundred times. Every minute accounted for, and still I missed the connection. She said she'd wait outside the convenience store at West Lake Cultural Square station. The store had a floor-to-ceiling glass wall. She leaned against it, head down, looking at her phone. From a distance I saw a purple silhouette, brown hair pinned with a black butterfly clip. Couldn't be sure it was her. I slowed my steps, walked to the glass door, and sent her a message telling her to turn around. Four months later she told me she'd spotted me long before that.
 
-[^32]: Shakespeare — William Shakespeare, often regarded as the exemplar of English literature.
-[^33]: Quoted from the *New Oxford American Dictionary.*
+The platform across from Carnolès stood bare. Four years ago she saw me through the glass; I didn't see her. Now there's nothing on the other side, and I see it perfectly.
 
-That isn't where this story's title comes from, though. I first encountered it in the subtitle of the first *Hobbit* film:[^34] Bilbo Baggins, content in Bag End, has his life upended by a wizard and dwarves, and sets off on an **unexpected journey**. Tolkien[^35] wrote a book out of it; mine fills only these three pages.
+I first encountered this story's title in the subtitle of the first *Hobbit* film:[^34] Bilbo Baggins, content in Bag End, has his life upended by a wizard and dwarves, and sets off on an **unexpected journey**. Tolkien[^35] wrote a book out of it; mine fills only these three pages.
 
 [^34]: The film's original title: *The Hobbit: An Unexpected Journey.*
 [^35]: Tolkien — J. R. R. Tolkien, English author.
