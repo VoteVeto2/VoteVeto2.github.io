@@ -34,9 +34,9 @@ ninja.data = [{
           window.location.href = "/blog/2026/An_Unexpected_Journey_in_Antibes/";
         
       },
-    },{id: "post-verhoogde-tegemoetkoming-increased-reimbursemnet",
+    },{id: "post-verhoogde-tegemoetkoming-increased-reimbursement",
       
-        title: "Verhoogde Tegemoetkoming(Increased Reimbursemnet)",
+        title: "Verhoogde Tegemoetkoming(Increased Reimbursement)",
       
       description: "All you need to know about Verhoogde Tegemoetkoming",
       section: "Posts",
