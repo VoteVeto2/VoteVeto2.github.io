@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-antibes-an-unexpected-journey",
+        },{id: "post-debugging-log",
+      
+        title: "Debugging Log",
+      
+      description: "A running log of debugging sessions, to update on my stupidity",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/debugging_log/";
+        
+      },
+    },{id: "post-antibes-an-unexpected-journey",
       
         title: "Antibes - An Unexpected Journey",
       
