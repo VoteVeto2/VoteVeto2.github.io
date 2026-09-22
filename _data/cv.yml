@@ -4,58 +4,47 @@
     - name: Full Name
       value: Xinyu Yang(杨昕煜)
     - name: Languages
-      value: English(fluent), Chinese(native), French(basic)
+      value: English (bilingual proficiency), Chinese (native), French (elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S in Statistics and Data Science
+    - title: M.Sc. in Statistics and Data Science
       institution: KU Leuven, Belgium
-      year: 2024-2026
+      year: 2024 - present
       description:
-        - GPA
-          - Magna Cum Laude
-        - Skills
-          - Deep Learning
-          - Reinforcement Learning
-          - Statistical Learning
-    - title: B.S. in Statistics
-      institution: Zhejiang Gongshang University, China
-      year: 2020-2024
+        - "GPA: cum laude"
+        - "Focus: deep learning, reinforcement learning"
+    - title: B.A. in Economics, B.S. in Applied Statistics
+      institution: Zhejiang Gongshang University, Hangzhou, China
+      year: 2019 - 2024
       description:
-        - GPA
-          - 88.5/100
-        - Bachelor Thesis
-          - Functional Elastic-Net Regression Based on RKHS approach
-        - Skills
-          - Functional Data Analysis
-          - High-dimensional Statistics
-          - Statistical Learning
-    - title: B.A. in Economics
-      institution: Zhejiang Gongshang University, China
-      year: 2019-2024
+        - "GPA: 3.71/5 (double major 3.85/5)"
+        - "Thesis: Functional Elastic-Net Regression Based on RKHS approach"
+        - "Focus: statistical learning, functional data analysis, high-dimensional statistics"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Itec-imec, Kortrijk, Belgium
-      year: 2025-06 - 
+    - title: Research Assistant on Clustering Nationwide Dispensing Data
+      institution: Belgian Pharmaceutical Association (<a href="https://www.apb.be/nl-BE">APB</a>), Belgium
+      year: 2026-02 - 2026-06
       description:
-        - Developing interpretable clustering methods for EHR dataset(w/ collaboration <a href="https://www.apb.be/nl-BE">APB</a>.
-        - Identify trajectory clustering for individual patients and subgroups on low-dimensional manifolds.
-    - title: Medical Image Segmentation Competition (4th-palce) 
-      year: 2025-07 - 2025-08
-      description:
-         - Trained and tuned a two-stage vitiligo staging modelon ~600 medical images, validated 85% accuracy and 95% specificity
-         - Delivered a lightweight, clinic-ready build (8.7 MB) that runs on standard CPUs (~1.2s/image).
-    
-    - title: Bachelor Thesis(Functional Elastic-Net Regression Based on RKHS approach)
+        - Built a Polars pipeline converting one year of Belgian nationwide pharmacy dispensing data (~47m records) into an integer-encoded star schema, cutting storage ~8x. Derived a ~1.09m-patient type 2 diabetes cohort and engineered 83 patient-level features (14 dispensing-behavior metrics plus yearly consumption of 69 diabetes-related drug classes).
+        - Implemented six distance-based clustering baselines in PyTorch on an M5 Pro GPU, as well as subsampling techniques, to fit the full cohort within a 48 GB memory constraint.
+        - Profiled the resulting five clusters by ATC drug codes and provincial distribution, and translated them into recommendations for APB domain experts.
+    - title: Teaching Assistant
       institution: Zhejiang Gongshang University, Hangzhou, China
-      year: 2023-10 - 2024-05
+      year: 2024-02 - 2024-05
       description:
-        - Utilized the RKHS method for effective estimation of kernel functions under elastic-net penalty.
-        - Conducted a simulation study using spline expansion with respect to cosine basis.
+        - Served in the course "Analysis II" and "Linear Algebra" for undergrads.
+        - Led the tutorials, provided feedback on their assignments, gave the mock exams.
+    - title: Data Analyst Intern
+      institution: Yingshui Investment Fund, Shanghai, China
+      year: 2023-07 - 2023-09
+      description:
+        - Extracted and transformed 60m rows of Shanghai Stock Exchange data across 10+ features (normalization, missing-value imputation).
+        - Scored news sentiment with the GPT-3.5 API and aggregated daily, weekly, and monthly sentiment into weighted stock factors used in investment decisions.
     - title: Research Assistant
       institution: Zhejiang Gongshang University, Hangzhou, China
       year: 2023-06 - 2023-07
@@ -66,26 +55,44 @@
           # contents:
             # - Sub-description 1.
             # - Sub-description 2.
-    - title: Data Analyst Intern
-      institution: Yingshui Investment Fund, Shanghai, China
-      year: 2023-07 - 2023-09
-      description:
-        - Extracted stock data from the Shanghai Stock Exchange and perform Transformation tasks. 
-        - Utilized GPT 3.5 API for sentiment analysis on news data to gauge market sentiment by Aggregating daily, weekly and monthly news sentiment scores.
 
-    - title: Teaching Assistant
+- title: Projects
+  type: time_table
+  contents:
+    - title: "GDG Leuven Hackathon: Building multi-model backend agents for Gemini Chatbot"
+      institution: Case by ML6, Leuven, Belgium
+      department: 2nd place
+      year: 2025-10
+      description:
+        - Orchestrated Claude agents for PDF extraction, image understanding, and web research into a single pipeline.
+        - Developed with a shared Git workflow, resolving PR conflicts across a four-person team.
+      linkitems:
+        - link: https://github.com/curnext/ML6xGDGKUL_AIAccelerate2025
+          linkname: solution repo
+    - title: Dual-Modal Vitiligo Staging and Diagnosis System
+      institution: Medical Image Classification Competition, Hangzhou, China
+      department: 4th place
+      year: 2025-07 - 2025-08
+      description:
+        - Trained and tuned a two-stage vitiligo staging model (ResNet18-UNet for lesion segmentation feeding a MobileNetV2 classifier with attention) on ~600 medical images.
+        - Improved results by 6.7 percentage points over the baseline; validated 85% accuracy and 95% specificity.
+        - Delivered a lightweight, clinic-ready build (8.7 MB) that runs on standard CPUs (~1.2s/image).
+    - title: "Functional Linear Model: Based on Reproducing Kernel Hilbert Space"
       institution: Zhejiang Gongshang University, Hangzhou, China
-      year: 2024-02 - 2024-05
+      department: Bachelor thesis, supervised by Prof. Bu Zhou
+      year: 2023-10 - 2024-05
       description:
-        - Served in the course "Analysis II" and "Linear Algebra" for undergrads.
-        - Led the tutorials, provided feedback on their assignments, gave the mock exams. 
+        - Reviewed the history of Functional Linear Model advancements in the Reproducing Kernel Hilbert Space framework.
+        - Utilized the RKHS method for effective estimation of kernel functions under elastic-net penalty.
+        - Conducted a simulation study using spline expansion with respect to cosine basis.
 
-# - title: Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, R, JavaScript, SQL
+    - name: Software
+      value: Polars, PyTorch, Claude Code, Git, React, Node.js, MongoDB, Docker, AWS
 
 #- title: Honors and Awards
 #  type: time_table
@@ -101,7 +108,7 @@
 # - title: Academic Interests
 #  type: nested_list
 #  contents:
-#    - title: 
+#    - title:
 #      items:
 #        - Description 1.
 #        - Description 2.

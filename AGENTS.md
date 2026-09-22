@@ -19,7 +19,7 @@ Personal site of Xinyu (Christopher) Yang. Jekyll on the al-folio template. Live
 - The CV layout renders JSON Resume instead of `_data/cv.yml` whenever `site.data.resume` exists. Don't add `_data/resume.*` or `jekyll_get_json`.
 - Posts with `published: false` are formatting demos. Keep them hidden and don't delete them.
 - Posts with future dates aren't built until a later deploy.
-- `cv_pdf` in `_pages/cv.md` is a SharePoint link that expires.
+- `cv_pdf` in `_pages/cv.md` is a Google Drive share link. It must stay public ("Anyone with the link").
 - Restart `jekyll serve` after editing `_config.yml`.
 
 ## Rules
