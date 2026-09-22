@@ -110,7 +110,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%78%69%6E%79%75.%79%61%6E%67@%73%74%75%64%65%6E%74.%6B%75%6C%65%75%76%65%6E.%62%65", "_blank");
+          window.open("mailto:%76%65%74%6F%76%6F%74%65%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -125,13 +125,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/xinyu-yang-7a688825a", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
