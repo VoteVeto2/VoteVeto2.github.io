@@ -1,7 +1,7 @@
 # Onboard
 
 Jekyll site on the [al-folio](https://github.com/alshedivat/al-folio) template.
-Push to `main` → `.github/workflows/deploy.yml` builds → `gh-pages` branch → https://VoteVeto2.github.io.
+Push to `main` → `.github/workflows/deploy.yml` builds → `gh-pages` branch → [https://VoteVeto2.github.io](https://VoteVeto2.github.io).
 
 ## 1. Build locally
 
@@ -11,10 +11,10 @@ Native (macOS). System Ruby 2.6 is too old; CI uses 3.3.5.
 brew install ruby imagemagick
 export PATH="/opt/homebrew/opt/ruby/bin:$PATH"   # put in ~/.zshrc
 bundle install
-bundle exec jekyll serve --livereload            # http://localhost:4000
+bundle exec jekyll serve --livereload            # http://127.0.0.1:4000/
 ```
 
-Docker alternative: `docker compose up` → http://localhost:8080.
+Docker alternative: `docker compose up` → [http://localhost:8080](http://localhost:8080).
 
 Restart the server after editing `_config.yml`. `bundle exec jekyll build` writes to `_site/` without serving.
 
@@ -22,17 +22,19 @@ Restart the server after editing `_config.yml`. `bundle exec jekyll build` write
 
 Visible nav: **about** (home), **blog**, **cv**.
 
-| Section | File |
-|---|---|
-| Home page text | `_pages/about.md` (body below the `---` front matter) |
-| Home photo | `assets/img/prof_pic.jpg`, set by `profile.image` in `_pages/about.md` |
+
+| Section                                  | File                                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------ |
+| Home page text                           | `_pages/about.md` (body below the `---` front matter)                          |
+| Home photo                               | `assets/img/prof_pic.jpg`, set by `profile.image` in `_pages/about.md`         |
 | Site title, description, footer, favicon | `_config.yml`: `first_name`, `last_name`, `description`, `footer_text`, `icon` |
-| Social icons | `_data/socials.yml` |
-| CV entries | `_data/cv.yml` |
-| CV PDF link | `cv_pdf` in `_pages/cv.md` |
-| Blog posts | `_posts/YYYY-MM-DD-slug.md` |
-| Blog page heading | `_config.yml`: `blog_name`, `blog_description` |
-| Nav bar | `nav: true` and `nav_order` in a `_pages/*.md` front matter |
+| Social icons                             | `_data/socials.yml`                                                            |
+| CV entries                               | `_data/cv.yml`                                                                 |
+| CV PDF link                              | `cv_pdf` in `_pages/cv.md`                                                     |
+| Blog posts                               | `_posts/YYYY-MM-DD-slug.md`                                                    |
+| Blog page heading                        | `_config.yml`: `blog_name`, `blog_description`                                 |
+| Nav bar                                  | `nav: true` and `nav_order` in a `_pages/*.md` front matter                    |
+
 
 **CV.** Each block in `cv.yml` has a `title`, a `type` (`map`, `time_table`, `list`, `nested_list`, or `list_groups`), and `contents`. To add one, copy an existing block.
 

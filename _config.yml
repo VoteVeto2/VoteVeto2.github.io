@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Xinyu Yang # add your website title here
-first_name: Xinyu(Christopher)
-middle_name: 
+title: Xinyu (Christopher) Yang # add your website title here
+first_name: Xinyu
+middle_name:
 last_name: Yang
-email: xinyu.yang@student.kuleuven.be
+email: vetovote2@gmail.com
 contact_note: >
-  Feel free to reach out to me via email or LinkedIn.
+  Feel free to reach out to me via Gmail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Xinyu Yang, a master student in statistics at KU Leuven.
 footer_text: >
@@ -225,6 +225,7 @@ defaults:
 
 sass:
   style: compressed
+  silence_deprecations: [import, global-builtin]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

@@ -114,7 +114,7 @@ The westbound train came quickly. On the Côte d'Azur, trains run as frequently 
 [^55]: Hangzhou Metro Line 5 — a metro line running through several central districts of Hangzhou, with extremely high ridership and dense departures during rush hour.
 
 <p align="right">
-  <i>Xinyu(Christopher) Yang, Night of February 15, 2026</i><br>
+  <i>Xinyu (Christopher) Yang, Night of February 15, 2026</i><br>
   <i>Written in the first snow of Leuven, with his Claude-Opus-4.6</i>
 </p>
 
